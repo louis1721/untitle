@@ -1,5 +1,6 @@
 # 제목<br>
 내용<br>
 https://kotlinlang.org/docs/reference/extensions.html<br>
-__receiver type__<br>
+receiver type
+=============
 https://blog.kotlin-academy.com/programmer-dictionary-receiver-type-vs-receiver-object-575d2705ddd9
