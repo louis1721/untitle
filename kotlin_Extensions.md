@@ -1,3 +1,4 @@
 # 제목<br>
 내용<br>
-https://kotlinlang.org/docs/reference/extensions.html
+https://kotlinlang.org/docs/reference/extensions.html<br>
+https://blog.kotlin-academy.com/programmer-dictionary-receiver-type-vs-receiver-object-575d2705ddd9
